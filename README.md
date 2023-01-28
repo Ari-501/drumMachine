@@ -1,4 +1,4 @@
-Front End Libraries Project - Build a Drum Machine
+Front End Development Libraries - Build a Drum Machine
 
 Solution Link (live link): https://arig501.github.io/drumMachine/
 
