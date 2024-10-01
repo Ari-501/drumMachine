@@ -1,6 +1,6 @@
 # Front End Development Libraries - Build a Drum Machine
 
-Solution Link (live link): https://arig501.github.io/drumMachine/
+Solution Link (live link): https://ari-501.github.io/drumMachine/
 
 Objective: Build an app that is functionally similar to this: https://drum-machine.freecodecamp.rocks/.
 
